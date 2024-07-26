@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "story book",
+        "title": "lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432292919.1721632590&semt=sph"
+      },
+      {
+        "id": 2,
+        "name": "Food book",
+        "title": "lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432292919.1721632590&semt=sph"      },
+      
+      
+      {
+        "id": 3,
+        "name": "Horror book",
+        "title": "lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432292919.1721632590&semt=sph"      },
+      
+      {
+        "id": 4,
+        "name": "shayari",
+        "title": "lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432292919.1721632590&semt=sph"      },
+      {
+        "id": 5,
+        "name": "general",
+        "title": "lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+        "price": 80,
+        "category": "general",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432292919.1721632590&semt=sph"      },
+      
+      
+      {
+        "id": 6,
+        "name": " html book",
+        "title": "lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+        "price": 70,
+        "category": "html",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432292919.1721632590&semt=sph"      },
+      
+      {
+        "id": 7,
+        "name": "css book",
+        "title": "lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+        "price": 60,
+        "category": "css",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432292919.1721632590&semt=sph"      },
+      
+    {
+        "id": 8,
+        "name": "javascript",
+        "title": "lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+        "price": 50,
+        "category": "javascript",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432292919.1721632590&semt=sph"      },
+      
+      {
+        "id": 9,
+        "name": " react book",
+        "title": "lorem, ipsum dolor sit amet consectetur adipiscing elit.",
+        "price": 40,
+        "category": "react",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432292919.1721632590&semt=sph"      },
+      
+      
+    {
+        "id":10,
+        "name":" express ",
+        "tittle": "lorem, ispum dolor sit amet consectetur adipiscing elit.",
+        "price":30,
+        "category":"express",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432292919.1721632590&semt=sph"    },
+    {
+        "id":11,
+        "name":" node book",
+        "tittle": "lorem, ispum dolor sit amet consectetur adipiscing elit.",
+        "price":20,
+        "category":"node",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432292919.1721632590&semt=sph"    }
+]
